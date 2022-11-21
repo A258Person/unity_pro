@@ -1,6 +1,12 @@
 # unity_pro
 这是一系列的unity官方小案例的视频，多个官方案例和一个自主实现的案例(目前都是半成品，还在继续优化)
 本项目由6个小项目和一个自己实现的项目构成，每个项目有展示的视频
+
+精灵勇士(sprite_warrior)：
+    概述：这是自己实现的一个2D塔防游戏，目前实现了主界面，选择界面，背包界面，选关界面，十几个不同的关卡界面，多种不同的塔，多种皮肤、道具等功能。
+    游戏控制相关，游戏暂停，重启，音量控制。游戏逻辑判断、ai逻辑、数据持久化等等。
+    详情导航bilibili介绍视频:https://space.bilibili.com/1028677684
+
 1.2D跑酷游戏
     概述：一个类似于天天酷跑的游戏,实现了跳跃，下蹲，选人，拾取道具，随机生成场景，死亡，敌人等等
     
@@ -19,9 +25,6 @@
 6.塔桥防御
     概述：官方案例，玩家操纵小豆人，基础功能类似上述项目。
     
-精灵勇士(sprite_warrior)：
-    概述：这是自己实现的一个2D塔防游戏，目前实现了主界面，选关界面，九个不同的关卡，三种不同的怪物，每个怪物都有自己独特的功能，游戏控制相关，游戏暂停，重启，音量控制等等。
-
 ![Image](https://github.com/A258Person/sprite_pic/blob/main/main.png)
 ![Image text](https://github.com/A258Person/picture/blob/master/sprite_select.png)
 ![Image text](https://github.com/A258Person/picture/blob/master/sprite_games.png)
