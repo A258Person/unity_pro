@@ -22,7 +22,7 @@
 精灵勇士(sprite_warrior)：
     概述：这是自己实现的一个2D塔防游戏，目前实现了主界面，选关界面，九个不同的关卡，三种不同的怪物，每个怪物都有自己独特的功能，游戏控制相关，游戏暂停，重启，音量控制等等。
 
-![Image text](https://github.com/A258Person/picture/blob/master/sprite_begin.png)
+![Image text](https://github.com/A258Person/sprite_pic/blob/main/main.png)
 ![Image text](https://github.com/A258Person/picture/blob/master/sprite_select.png)
 ![Image text](https://github.com/A258Person/picture/blob/master/sprite_games.png)
 
